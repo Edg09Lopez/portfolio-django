@@ -1,0 +1,18 @@
+body{
+    background: wheat;
+}
+
+.bg_blue{
+    background: gray;
+}
+
+.card-project:hover {
+    border: 1px solid rgb(246, 245, 245);
+    cursor: pointer;
+}
+
+.blog-foot {
+    color: white;
+    background-color: #000;
+    text-align: center;
+}
