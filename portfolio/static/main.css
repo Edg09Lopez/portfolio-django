@@ -1,9 +1,10 @@
 body{
-    background: wheat;
+    background: white;
 }
 
-.bg_blue{
-    background: gray;
+.bg_black{
+    background: black;
+    color: white;
 }
 
 .card-project:hover {
