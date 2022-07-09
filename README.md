@@ -1,1 +1,1 @@
-# portfolio-django/portfolio
+# portfolio-django
